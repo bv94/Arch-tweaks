@@ -17,7 +17,7 @@
 [Initramfs Tweaks](#initramfs) <br>
 [Laptop battery Improvement](#laptop) <br>
 [Fusuma Touchpad Gestures](#touchpad) <br>
-[Donations](#donations) <br>
+
 
 Welcome to my Arch Linux Tweaks Guide, this is a personal collection of tweaks and settings that I do to a fresh Install on my system to get it running the way I like it to. I won’t be covering things such as microcodes in this guide as they are covered in my Arch Linux install guide already and this guide will be focusing on the next steps directly from there.
 
@@ -489,6 +489,4 @@ where \$USER is your username then we can install a gem for fusuma by running
 
 Then a reboot and it should be running.
 
-### Donations <a name="donations"></a>
 
-https://cointr.ee/dante_robinson
