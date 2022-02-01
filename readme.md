@@ -20,7 +20,7 @@
 [Donations](#donations) <br>
 
 Welcome to my Arch Linux Tweaks Guide, this is a personal collection of tweaks and settings that I do to a fresh Install on my system to get it running the way I like it to. I won’t be covering things such as microcodes in this guide as they are covered in my Arch Linux install guide already and this guide will be focusing on the next steps directly from there.
-You can find my install guide here - https://gist.github.com/dante-robinson/fdc55726991d3f17e0dbef1701d343ef
+
 
 Alot of people may prefer to create a bunch of dotfiles in there home directory to allow different users to have different settings for things like pacman, audio, makepkg settings etc. I see no need for this the users are on the same system as you so why not set them as system wide settings? To each there own I have listed both methods where it applies if you choose to do it one way over the other.
 
